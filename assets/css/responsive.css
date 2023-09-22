@@ -45,4 +45,11 @@
     .single-menu .menu-content h5 span {
         line-height: 25px;
     }
+    .cotacts-logo img {
+        height: 38px;
+    }
+    .pay img {
+        height: 35px;
+        margin: 1px;
+    }
 }
